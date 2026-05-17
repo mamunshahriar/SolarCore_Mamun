@@ -2,11 +2,10 @@
 
 A real-time industrial solar power monitoring dashboard built with **Flask + SQLite + Chart.js**, designed for simulation systems and future IoT integration.
 
----
 
 # 🚀 Quick Start
 
-``bash
+```bash
 cd solar_monitor
 pip install flask
 python app.py
