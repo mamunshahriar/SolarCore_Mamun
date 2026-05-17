@@ -4,9 +4,9 @@ A real-time industrial solar power monitoring dashboard built with **Flask + SQL
 
 ---
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
-```bash
+``bash
 cd solar_monitor
 pip install flask
 python app.py
